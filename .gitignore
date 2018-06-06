@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+**EigenMatrix
+**StdMatrix
+
+# build
+**build
+
+# IDE specific
+*sublime-project
+*sublime-workspace
